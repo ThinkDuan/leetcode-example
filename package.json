@@ -1,0 +1,26 @@
+{
+  "name": "leetcode-example",
+  "version": "1.0.0",
+  "description": "leetcode javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkDuan/leetcode-example.git"
+  },
+  "keywords": [
+    "leetcode",
+    "javascript"
+  ],
+  "author": "duanxinxin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThinkDuan/leetcode-example/issues"
+  },
+  "homepage": "https://github.com/ThinkDuan/leetcode-example#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
