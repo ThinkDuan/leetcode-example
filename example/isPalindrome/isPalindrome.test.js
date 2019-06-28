@@ -1,4 +1,4 @@
-const isPalindropMe = require('../../src/isPalindrome/isPalindropme');
+const isPalindropMe = require('../../src/isPalindrome/isPalindrome');
 test('isPalindropMe 121 to true',() => {
   expect(isPalindropMe(121)).toBe(true);
 });

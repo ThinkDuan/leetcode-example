@@ -1,4 +1,4 @@
-function isPalindropme(x) {
+function isPalindrome(x) {
   if (x < 0) {
     return false;
   } else if (x === 0) {
@@ -17,4 +17,4 @@ function isPalindropme(x) {
      }
   }
 }
-module.exports = isPalindropme;
+module.exports = isPalindrome;
