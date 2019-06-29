@@ -40,9 +40,9 @@ function reverseOptimize(x) {
     let length = string.length;
     let reString = '';
     for (let i = length - 1; i > -1; i--) {
-      reString += string[i]
+      reString += string[i];
     }
     return reString;
   }
 }
-module.exports = { reverse, reverseOptimize };
+export default { reverse, reverseOptimize };
